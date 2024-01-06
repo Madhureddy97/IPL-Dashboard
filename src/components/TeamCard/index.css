@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.each-team-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #ffffff;
+  border-radius: 10px;
+  margin: 20px;
+  padding: 10px;
+  height: 150px;
+  width: 500px;
+}
+.each-team-logo {
+  height: 100px;
+  width: 100px;
+  margin-right: 10px;
+}
+.each-team-name {
+  font-family: 'Bree Serif';
+  font-size: 30px;
+  color: #ffffff;
+}

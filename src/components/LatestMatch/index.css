@@ -1,0 +1,46 @@
+/* Write your CSS here */
+.latest-match-container {
+  display: flex;
+  background-color: #000000;
+  margin-top: 20px;
+}
+
+.left-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  margin-left: 10px;
+}
+.middle-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.right-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-end;
+  margin-right: 10px;
+}
+.left-content-heading {
+  font-family: 'Bree Serif';
+  font-size: 25px;
+  color: #ffffff;
+}
+.left-content-description {
+  font-family: 'Bree Serif';
+  font-size: 16px;
+  color: #ffffff;
+}
+.competing-team-logo {
+  height: 200px;
+  width: 300px;
+}
+.right-content-description {
+  font-family: 'Bree Serif';
+  font-size: 16px;
+  color: #ffffff;
+}

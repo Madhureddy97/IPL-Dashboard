@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.previous-matches-container {
+  background-color: #000000;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-top: 30px;
+  margin-right:60px;
+  margin-left:60px;
+}
+.previous-team-logo {
+  height: 300px;
+  width: 300px;
+}
+.previous-team {
+  font-family: 'Bree Serif';
+  font-size: 20px;
+  color: #ffffff;
+}
+.result-with-previous-team {
+  font-family: 'Bree Serif';
+  font-size: 16px;
+  color: #ffffff;
+}
